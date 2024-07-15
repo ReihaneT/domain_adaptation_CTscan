@@ -80,4 +80,4 @@ We acknowledge the support of the New Frontiers in Research Fund (NFRF) under fu
 
 #### Extracting Ventricle Labels
 - **Extract Ventricle from Whole Brain Label:**
-  - Run `run_extract_labels.sh`.
+  - Run `run_extract_labels.sh`
