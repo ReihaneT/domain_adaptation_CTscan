@@ -27,7 +27,7 @@ Method = opt.yh_data_model
 
 params = [
     {
-        'name': 'UNSB',
+        'name': 'UNSB_Seg',
         'which_model_netG': 'resnet_9blocks_cond',
         'which_model_netSeg': 'R2AttU_Net',
         'model': 'sb',
